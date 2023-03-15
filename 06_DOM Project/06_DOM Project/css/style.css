@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
 
 :root{
-    --color1: #66E2DC;
+    --color1: hwb(188 27% 0%) ;
     --color2:#FA7453;
     --color3:#FFB964;
     --color4:#FCFAF9;
